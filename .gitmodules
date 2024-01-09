@@ -1,3 +1,6 @@
 [submodule "pokedex"]
 	path = pokedex
 	url = git@github.com:degenone/full-stack-open-pokedex
+[submodule "bloglist-cicd"]
+	path = bloglist-cicd
+	url = git@github.com:degenone/FSO-bloglist-cicd

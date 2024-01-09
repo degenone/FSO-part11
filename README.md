@@ -10,5 +10,6 @@
 - [17](https://fullstackopen.com/en/part11/keeping_green#exercise-11-17)
 - [18](https://fullstackopen.com/en/part11/expanding_further#exercise-11-18)
 - [19-21](https://fullstackopen.com/en/part11/expanding_further#exercises-11-19-11-21)
+    - [bloglist with CI/CD](https://github.com/degenone/FSO-bloglist-cicd)
 
 [Back to meta repository](https://github.com/degenone/FSO)
