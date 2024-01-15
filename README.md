@@ -2,6 +2,8 @@
 
 [Pokedex](https://pokedex-fso-degenone.onrender.com/)
 
+[Bloglist](https://bloglist-fso-degenone.onrender.com/)
+
 - [1](https://fullstackopen.com/en/part11/introduction_to_ci_cd#exercise-11-1)
 - [2](https://fullstackopen.com/en/part11/getting_started_with_git_hub_actions#exercise-11-2)
 - [3-3](https://fullstackopen.com/en/part11/getting_started_with_git_hub_actions#exercises-11-3-11-4)
